@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universuen&layout=compact)
 
-- 📫 How to reach me: universuen@gamail.com
+- 📫: universuen@gmail.com
