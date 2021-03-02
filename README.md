@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universuen&card_width=445&layout=compact)
 
-- 📫: universuen@gmail.com
+📫: universuen@gmail.com
