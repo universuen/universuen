@@ -2,6 +2,6 @@
 
 ![Arults's GitHub stats](https://github-readme-stats.vercel.app/api?username=universuen&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universuen&card_width=500&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universuen&card_width=450&layout=compact)
 
 - 📫: universuen@gmail.com
